@@ -9,10 +9,10 @@ For the "Link" column, use the full URL to the specific activity. For example, t
 
 | Week | Milestone                                   | Link                                                         |
 |------|---------------------------------------------|--------------------------------------------------------------|
-| 1    | Github Account Created                      | https://github.com/`username` |
-| 1    | Github Profile Page Updated                 | https://github.com/`username`/`username` |
-| 1    | Commit and Push Change from Command Line    | https://github.com/`username`/`repo-name`/commit/`commit-nr` |
-| 1    | Create a New Branch                           | https://github.com/`username`/`repo-name`/tree/`new-branch-name` |
+| 1    | Github Account Created                      | https://github.com/octav19 |
+| 1    | Github Profile Page Updated                 | https://github.com/octav19/octav19 |
+| 1    | Commit and Push Change from Command Line    | https://github.com/octav19/ppchem/commit/c244a912a86858ff1222cf81daf652456ad94962 |
+| 1    | Create a New Branch                           | https://github.com/octav19/ppchem/tree/new-branch-name |
 | 1    | Create a conda environment                  | https://github.com/octav19/ppchem/blob/main/env.yml |
 | 1    | Fork a Repo                                 | https://github.com/octav19/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
