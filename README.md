@@ -16,7 +16,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Fork a Repo                                 | https://github.com/octav19/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              |https://github.com/octav19/test-for-pull-req/pulls |
 | 2    | (Optional) Review a Pull Request            |https://github.com/octav19/ppchem/pull/1|
-| 4    | Update `env.yml` via a Pull Request         | https://github.com/`username`/practical-programming-in-chemistry-milestones/pull/`pull-request-number` |
+| 4    | Update `env.yml` via a Pull Request         |https://github.com/octav19/ppchem/pull/1|
 
 
 **More milestones will be added throughout the course.**
