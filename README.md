@@ -16,7 +16,7 @@ For the "Link" column, use the full URL to the specific activity. For example, t
 | 1    | Create a conda environment                  | https://github.com/octav19/ppchem/blob/main/env.yml |
 | 1    | Fork a Repo                                 | https://github.com/octav19/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              |https://github.com/octav19/test-for-pull-req/pulls |
-| 2    | (Optional) Review a Pull Request            |https://github.com/octav19/ppchem/compare/update-env?expand=1 |
+| 2    | (Optional) Review a Pull Request            |https://github.com/octav19/ppchem/pull/1|
 
 **More milestones will be added throughout the course.**
 
